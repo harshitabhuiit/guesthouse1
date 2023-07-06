@@ -50,3 +50,9 @@ input[type="submit"] {
     background-color: #ddd;
     color: black;
   }
+  header {font-style:oblique ;
+    font-size: larger;
+    font-weight:bold;
+    text-align: center;
+    text-decoration: wavy;}
+    header{color: rgb(43, 119, 186);}
